@@ -15,20 +15,20 @@ const data = [
     image: IMG1,
     title: 'Webapp user interface dashboard',
     github: 'https://github.com/kiliandeketelaere/Techdegree-project-7.git',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    demo: 'https://webapp-dashboard-kilian.netlify.app'
   },
   {
     id: 2,
     image: IMG2,
     title: 'Weel of succes game',
     github: 'https://github.com/kiliandeketelaere/Techdegree-project-6.git',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'https://wheel-of-success-kilian.netlify.app'
   },
   {
     id: 3,
     image: IMG3,
     title: 'Trading algoritm running on a live fund',
-    github: 'https://github.com',
+    github: 'https://www.fxblue.com/users/kiliandkk',
     demo: 'https://www.fxblue.com/users/kiliandkk'
   },
   // {
